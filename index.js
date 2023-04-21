@@ -4,8 +4,8 @@ const puppeteer = require('puppeteer');
 
 (async () => {
     const DIR = {
-        email: 'YOUR EMAIL',  // replace YOUR EMAIL with your email for auto login (keep everything else the same)
-        password: 'YOUR PASSWORD',  // replace YOUR PASSWORD with your password for auto login
+        email: 'bjorg18@eq.edu.au',  // replace YOUR EMAIL with your email for auto login (keep everything else the same)
+        password: 'Jorgolove7**',  // replace YOUR PASSWORD with your password for auto login
 
         login_url: 'https://app.educationperfect.com/app/login',
 
